@@ -1,0 +1,6 @@
+com\training\beans\Product.class
+com\training\dao\ProductDao.class
+com\training\dao\ProductDaoImpl.class
+com\training\service\ProductServiceImpl.class
+com\training\test\MyTestClass.class
+com\training\service\ProductService.class
